@@ -1,3 +1,4 @@
 from PDF_parser import PDFParser
+from PDF_filter import PDFFilter
 
-all = ["PDFParser"]
+all = ["PDFParser", "PDFFilter"]
